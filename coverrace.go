@@ -1,4 +1,4 @@
-package test
+package coverrace
 
 func add100() int {
 	total := 0
